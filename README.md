@@ -4,5 +4,5 @@ metadata:
   name: helloWorld
 spec:
   containers:
-  - name: hi~
+  \- name: hi~
     image: hello/World
