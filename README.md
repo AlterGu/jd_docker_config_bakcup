@@ -1,8 +1,8 @@
 apiVersion: v1 <br />
-kind: pod
-metadata:
-  name: helloWorld
-spec:
-  containers:
-  \- name: hi~
-    image: hello/World
+kind: pod<br />
+metadata:<br />
+  name: helloWorld<br />
+spec:<br />
+  containers:<br />
+  \- name: hi~<br />
+    image: hello/World<br />
