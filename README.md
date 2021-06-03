@@ -1,1 +1,8 @@
-# jd_docker_config_bakcup
+apiVersion: v1
+kind: pod
+metadata:
+  name: helloWorld
+spec:
+  containers:
+  - name: hi~
+    image: hello/World
