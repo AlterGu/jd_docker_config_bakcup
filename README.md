@@ -1,5 +1,4 @@
-apiVersion: v1
-
+apiVersion: v1 <br />
 kind: pod
 metadata:
   name: helloWorld
